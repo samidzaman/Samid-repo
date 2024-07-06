@@ -1,0 +1,21 @@
+body{
+    font-family: 'poppins', sans-serif;
+    margin: 0px;
+}
+.spn{
+    color: orange;
+}
+.first-container{
+    width: 50%;
+    height: 500px;
+    float: left;
+}
+.snd-container{
+    width: 50%;
+    height: 500px;
+    float: left;
+}
+.snd-container img{
+    width: 500px;
+    height: 400px;
+}
